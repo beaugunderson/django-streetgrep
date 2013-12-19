@@ -1,0 +1,6 @@
+Django==1.6.1
+astroid==1.0.1
+logilab-common==0.60.1
+pylint==1.0.0
+readline==6.2.4.1
+wsgiref==0.1.2
