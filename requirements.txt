@@ -1,5 +1,6 @@
 Django==1.6.1
 astroid==1.0.1
+django-taggit==0.11.2
 logilab-common==0.60.1
 pylint==1.0.0
 readline==6.2.4.1
